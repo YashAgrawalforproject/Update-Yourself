@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">NEWS</string>
+    <string name="nav_header_subtitle">yash@news.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">BBC</string>
+    <string name="menu_gallery">CNN</string>
+    <string name="menu_slideshow">Al Jazeera</string>
+    <string name="menu_fox">FoxNews</string>
+</resources>
